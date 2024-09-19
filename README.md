@@ -8,11 +8,11 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
-# FITNESS-PLANNER
->>>>>>> e205e61e9ad3c708a3079350c2695de3af4a2e1f
-# fitness-plan
 
-Here’s a detailed README for your **AI Fitness Planner** app on GitHub:
+
+
+
+
 
 ---
 
@@ -107,4 +107,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-This README provides a clear overview of your **AI Fitness Planner** app's features, functionality, and instructions for setup. Let me know if you'd like to add any more specific details!
+
