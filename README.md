@@ -16,7 +16,7 @@ AI Fitness Planner is a web-based fitness planning application designed to help 
 
 - **Frontend**: [React](https://reactjs.org/), [Tailwind CSS](https://tailwindcss.com/)
 - **Backend**: Node.js, Express
-- **Database**: MongoDB
+- **Database**: Firebase
 - **AI Integration**: GEMINI API
 
 
